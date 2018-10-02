@@ -15,3 +15,6 @@ Text detection app to find products online without typing using [Firebase ML Kit
 
 > Note : Create a new Firebase application via a web browser and setup Firebase in the app. 
 The big thing to do here is to download a google-services.json file and save that to app/google-services.json
+
+## License & Copyright
+Licensed under the [MIT Licence](LICENSE)
